@@ -37,3 +37,14 @@
 .white{
   background-color: #ecc996;
 }
+.selected{
+  background-color: saddlebrown;
+}
+.available{
+  height: 12px;
+  width: 12px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  background-color: greenyellow;
+}
